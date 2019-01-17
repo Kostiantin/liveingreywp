@@ -1,0 +1,1 @@
+[Thu Jan 17 16:18:25.769708 2019] [autoindex:error] [pid 2220:tid 1724] [client 127.0.0.1:51900] AH01276: Cannot serve directory D:/Projects/liveingreywp/: No matching DirectoryIndex (index.php,index.html,index.htm,index.shtml) found, and server-generated directory index forbidden by Options directive
