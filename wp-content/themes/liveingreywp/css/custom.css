@@ -973,7 +973,11 @@ label.special-checkbox-label {
   }
 
   .footer-section-3 ul li.social-icons-container {
-    padding-top: 25px;
+    /*padding-top: 25px;*/
+  }
+
+  .footer-section-3 ul li:first-child, .footer-section-3 ul li:last-child {
+    text-align: center;
   }
 
   .footer-section-2 h3 {
