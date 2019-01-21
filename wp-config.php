@@ -26,7 +26,7 @@ define('DB_NAME', 'liveingreywp');
 define('DB_USER', 'liveingreywp');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'https://liveingreywp.frb.io');
+define('DB_PASSWORD', 'LM53jQoPmWYpfTpN_.tGHcdt');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
