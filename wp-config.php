@@ -23,10 +23,10 @@
 define('DB_NAME', 'liveingreywp');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'liveingreywp');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'https://liveingreywp.frb.io');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
