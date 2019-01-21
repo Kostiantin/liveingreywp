@@ -29,7 +29,7 @@ define('DB_USER', 'liveingreywp');
 define('DB_PASSWORD', 'LM53jQoPmWYpfTpN_.tGHcdt');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'liveingreywp.mysql.eu2.frbit.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
